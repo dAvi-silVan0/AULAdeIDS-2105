@@ -1,0 +1,37 @@
+.bodi{
+    background-color: rgb(240, 248, 255);
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-family: "Coral Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    
+}
+
+.cronomd{
+    text-align: center;
+    align-items: center;
+    height: 45px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    font-family: "Coral Pixels", serif;
+}
+
+.cronoms{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    /*tentei colocar um fundo diferente, mas fica bugado, provavelmente é a fonte */
+}
+
+.relogo{
+    padding-left: 50px;
+
+}
+
+.fraseOne{
+    color: rgb(0, 0, 0);
+}
+
+
